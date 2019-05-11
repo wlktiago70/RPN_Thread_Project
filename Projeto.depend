@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1557590953 source:c:\users\wkuan\documents\desafiocpp\projeto\src\reversepolishnotation.cpp
+	"ReversePolishNotation.hpp"
+
+1557590978 c:\users\wkuan\documents\desafiocpp\projeto\include\reversepolishnotation.hpp
+	<iostream>
+	<sstream>
+	<string>
+	<stack>
+
+1557591947 source:c:\users\wkuan\documents\desafiocpp\projeto\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<thread>
+	<mutex>
+	<chrono>
+	<condition_variable>
+	<iomanip>
+	<math.h>
+	"ReversePolishNotation.hpp"
+
